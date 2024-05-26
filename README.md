@@ -1,5 +1,9 @@
-# SPCPU
-Simple physics central processing unit
+# SCPUA
+Simple Central Processing Unit Architecture
+
+- Simple: Emphasizes the project's focus on simplicity and accessibility.
+- CPU: The core of the project, which involves developing a central processing unit.
+- Architecture: Designing the architecture of the central processing unit.
 
 ## Description of this project
 
